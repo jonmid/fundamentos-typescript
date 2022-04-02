@@ -1,4 +1,4 @@
-# 🚀 Ejercicios Fundamentos TypeScript - (TypeScript - JavaScript) 🚀
+# 🚀 Ejercicios Fundamentos TS - (TypeScript - JavaScript) 🚀
 
 Ejercicios para practicar los fundamentos de TS
 
